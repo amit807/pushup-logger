@@ -34,3 +34,4 @@ zipp==3.6.0
 wordnet
 pros_cons
 reuters
+stopwords
