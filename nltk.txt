@@ -1,3 +1,2 @@
-nltk.download('stopwords')
-stopwords.words('English')
-nltk.download('wordnet')
+wordnet
+stopwords
