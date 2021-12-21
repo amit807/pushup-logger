@@ -32,4 +32,4 @@ Werkzeug==2.0.2
 yarg==0.1.9
 zipp==3.6.0
 wordnet==0.0.1b2
-stopwords==2018.7.23
+stop-words==2018.7.23
