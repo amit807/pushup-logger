@@ -32,6 +32,4 @@ Werkzeug==2.0.2
 yarg==0.1.9
 zipp==3.6.0
 wordnet
-pros_cons
-reuters
 stopwords
