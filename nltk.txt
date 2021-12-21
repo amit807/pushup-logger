@@ -1,0 +1,2 @@
+wordnet==0.0.1b2
+stop-words==2018.7.23
