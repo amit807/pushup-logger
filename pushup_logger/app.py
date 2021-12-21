@@ -8,6 +8,7 @@ from sklearn.metrics import classification_report
 import pickle
 import joblib
 from textblob import TextBlob
+import nltk
 
 
 app = Flask(__name__)
